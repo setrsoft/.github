@@ -1,12 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/47a5b20d-584a-47e3-af36-522815f22dc0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/47a5b20d-584a-47e3-af36-522815f22dc0">
+    <img alt="setrsoft logo" src="https://github.com/user-attachments/assets/47a5b20d-584a-47e3-af36-522815f22dc0" width="300" height="100" style="max-width: 100%">
+  </picture>
+  <br/>
+  <br/>
+  <a href="https://github.com/setrsoft/setrsoft_app/actions/workflows/ci.yml"><img alt="CI Status" src="https://github.com/setrsoft/setrsoft_app/actions/workflows/ci.yml/badge.svg?branch=main"></a>
+  <a href="https://discord.gg/BdyfNU9TpR"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-7289da?logo=discord&logoColor=white"></a>
+  <a href="https://github.com/setrsoft/setrsoft_app/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/setrsoft/setrsoft_app"></a>
+</p>
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Welcome
+
+SetRsoft is an open source community driven software. Test it live on the website http://www.setrsoft.com/ 
+
+Feel free to create new Github Issues for new features or signal bugs. 
